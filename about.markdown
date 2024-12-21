@@ -1,18 +1,12 @@
 ---
-layout: page
+layout: archive
 title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Hi! I'm Kelly Cheung
+As a transitioning IT professional, I am driven by a passion for software development and database management, seeking new opportunities for growth in the tech industry.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My journey into IT was inspired by my years as a teacher in Hong Kong, where I developed a deep appreciation for productivity apps and their ability to streamline tasks and enhance efficiency. As a frequent user, I've come to appreciate the impact a simple, intuitive interface can have on enhancing people’s lives. This experience ignited my desire to explore the potential of building my own productivity app, combining functionality with creativity to make a meaningful difference.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I am a continuous learner, excited to expand my skill set across various IT areas. I look forward to connecting with others who share similar or diverse interests, learning from each other's experiences, and growing together.
