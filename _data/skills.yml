@@ -1,0 +1,22 @@
+technical:
+ - title: C#
+   level: Beginner
+ - title: Python
+   level: Beginner
+ - title: JavaScrpt
+   level: Beginner
+ - title: HTML
+   level: Beginner
+ - title: CSS
+   level: Beginner   
+
+soft:
+ - title: Communication
+   level: Intermediate
+ - title: Problem-solving
+   level: Intermediate 
+ - title: Collaboration
+   level: Advanced
+ - title: Time Management
+   level: Advanced
+      
