@@ -1,0 +1,11 @@
+Kelly Cheung:
+  name        : "Kelly Cheung"
+  bio         : "Let's talk about code! Reach out via the links below."
+  avatar      : "/assets/images/little_reggie.jpeg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:kelly.kalaicheung@gmail.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://github.com/kelly-cheung"

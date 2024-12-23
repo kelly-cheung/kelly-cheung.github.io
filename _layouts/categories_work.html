@@ -1,7 +1,8 @@
 ---
 layout: archive
 ---
-{{content}}
+
+{{ content }}
 
 <ul class="taxonomy__index">
     {% assign sorted_tags = site.tags | sort %}
@@ -24,9 +25,8 @@ layout: archive
 <section id="{{ tag[0] | slugify | downcase }}" class="taxonomy__section">
     <h2 class="archive__subtitle">{{ tag[0] }}</h2>
     <div class="entries-{{ entries_layout }}">
-        {% for post in tag.last %}
+        {% for post in cat_tags %}
         {% include archive-single.html type=entries_layout %}
-        <!-- {% include posts-taxonomy.html taxonomies=site.categories %} -->
         {% endfor %}
     </div>
     <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }}
