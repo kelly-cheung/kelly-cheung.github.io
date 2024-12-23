@@ -1,5 +1,5 @@
 ---
-layout: categories_work
+layout: categories_article
 title:  "My Writing"
 # date:   2024-12-21 03:45:59 +0000
 # # categories: jekyll update
